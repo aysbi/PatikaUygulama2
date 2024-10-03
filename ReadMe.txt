@@ -28,13 +28,6 @@ Bu C# konsol aplikasyonu karşı taraftan bir tam sayı isteyerek aşağıdaki i
 - .NET SDK (Version 5.0 veya daha üst versionlar)
 - C# derleyici
 
-## Nasıl Derlenir?
-
-Programı derlemek için terminalde aşağıdaki kodu çalıştırın:
-```bash
-csc Program.cs
-```
-
 ## Örnek Çıktı
 
 ```
